@@ -1,0 +1,49 @@
+# Quiz Instructions (not all questions are clear)
+ 
+## Question 1
+
+### Question 1 
+
+A statistical model defines the relationship between which two variables?
+
+* Slope and intercept
+* Beta variable and model variable
+* Independent and dependent
+* Independent and alpha variable
+* Fit variable and better fit variable
+ 
+### Question 2
+
+In the equation
+ , Which of the following notations represents the independent variable?
+Group of answer choices
+ 
+### Question 3
+
+R2 helps to understand what about the fitted model?
+
+* The performance of your model when compared to the baseline model
+* The difference between y1 and y*
+* The mean of the dependent variable
+* The slope of the fitted line
+* The difference between and
+ 
+### Question 4
+
+Select the two main types of variables in the context of statistical learning.
+
+* Dependent variable and independent variable
+* Label variable and independent variable
+* Independent variable and controlled variable
+* Model variable and feature variable
+* Label variable and feature variable.
+ 
+### Question 5
+
+Which of the following best describes the “error” of a linear regression model?
+
+* The difference between the best fit line and the regression line
+* The vertical offset between the fit line and the actual observation # this definition does not apply to all statistical model
+* The sum of the x and y coordinates
+* The difference between the slope and the intercept
+* The coordinates of the prediction

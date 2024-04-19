@@ -1,0 +1,12 @@
+## Lecture: Simple Linear Regression: Part 2 (Flex)
+In this lecture, Greg Damico continues discussing simple linear regression. Topics covered in this lecture include: regression equation, simple linear regression with statsmodels, regression without error, OLS, OLS summary interpretation, regression with error, fitted model attributes and methods, R2 , coefficient of determination, MSE (means squared error), assumptions of linear regression, linearity, independence, normality, homoskedacity, log scaling, Anscombe’s Quartet
+
+https://vimeo.com/681742625
+
+
+
+This interactive tool can be found here - Experimenting with a regression line
+
+https://www.desmos.com/calculator/jwquvmikhr 
+
+
